@@ -1,9 +1,9 @@
 # OpenCV + PyQT
 # 컬러 카메라, 흑백 카메라 동작 테스트
-
 import cv2
 import threading
 import sys
+import time
 from PyQt5 import QtWidgets
 from PyQt5 import QtGui
 from PyQt5 import QtCore
@@ -66,6 +66,13 @@ def stop():
 
 def start():
     global running
+    if running == True:
+        running = False
+        print('잠시 기다려 주세요. 먼저 시작된 스레드를 정료하고 있습니다.')
+        if running == False:
+            print('이제 시작됩니다.')
+            time.sleep(1)
+
     running = True
     th = threading.Thread(target=run)
     th.start()
@@ -73,6 +80,14 @@ def start():
 
 def start_gray():
     global running
+    
+    if running == True:
+        running = False
+        print('잠시 기다려 주세요. 먼저 시작된 스레드를 정료하고 있습니다.')
+        if running == False:
+            print('이제 시작됩니다.')
+            time.sleep(1)
+
     running = True
     th = threading.Thread(target=runGray)
     th.start()
