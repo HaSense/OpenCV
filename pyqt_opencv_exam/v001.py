@@ -1,5 +1,6 @@
 # OpenCV + PyQT
 # 컬러 카메라, 흑백 카메라 동작 테스트
+# 핸드폰 앱과 연동코드
 import cv2
 import threading
 import sys

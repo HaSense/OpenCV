@@ -24,7 +24,7 @@ def gray(): #흑백
     #capture = cv2.cvtColor(capture, cv2.COLOR_BGR2GRAY)
     while True:
         if (capture.get(cv2.CAP_PROP_POS_FRAMES) == capture.get(cv2.CAP_PROP_FRAME_COUNT)):
-            capture.open('./data/vtest.avi')
+            capture.open('../data/vtest.avi')
 
         ret, frame = capture.read()
         frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
@@ -34,10 +34,10 @@ def gray(): #흑백
             break
 def blur(): #블러
     global capture
-    capture = cv2.cvtColor(capture, cv2.COLOR_BGR2GRAY)
+    #capture = cv2.cvtColor(capture, cv2.COLOR_BGR2GRAY) #스칼라값으로 받으면 pyqt에서 에러발생
     while True:
         if (capture.get(cv2.CAP_PROP_POS_FRAMES) == capture.get(cv2.CAP_PROP_FRAME_COUNT)):
-            capture.open('./data/vtest.avi')
+            capture.open('../data/vtest.avi')
 
         ret, frame = capture.read()
         cv2.imshow("VideoFrame", frame)

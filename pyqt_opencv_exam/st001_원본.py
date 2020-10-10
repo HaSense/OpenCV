@@ -1,3 +1,7 @@
+#훈련생이 제공한 장애발생 코드 
+#현재 문제점을 확인하고 수정된 코드를 만들어 봅시다.
+
+
 import cv2
 import threading
 import sys
