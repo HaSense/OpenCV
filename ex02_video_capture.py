@@ -25,7 +25,3 @@ while True:
 if video.isOpened():  #혹시 영상이 오픈되어있다면 해제한다.
     video.release()
 cv2.destroyAllWindows()  #모든 열려있는 윈도우를 닫는다.
-
-
-
-
