@@ -44,5 +44,12 @@ pytesseract 테서렉트 아나콘다에서 설치법 : conda install -c conda-f
    https://deepmind.com
 4) 얼굴인식 서비스 기업
    ㄱ.센스타임 : https://www.sensetime.com/en
+   
    ㄴ.메그비 : https://en.megvii.com/
+   
+   ㄷ.이투커지 : https://www.yitutech.com/en
+   
+   ㄹ.아이플라이테크 : https://www.iflytek.com/en/
+   
+    중국 비디오 감시장비 제조업체 **하이크비전** : https://www.hikvision.com/en/
 
