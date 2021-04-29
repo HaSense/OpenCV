@@ -54,3 +54,8 @@ pytesseract 테서렉트 아나콘다에서 설치법 : conda install -c conda-f
    
     중국 비디오 감시장비 제조업체 **하이크비전** : https://www.hikvision.com/en/
 
+
+ps. 파이썬 함수의 매개변수의 모호성 때문에 코딩작업 중 혼돈이 올 수 있습니다.
+    함수와 매개변수를 정의합시다.
+    함수 매개변수 참고 자료 : https://blog.naver.com/baek2sm/221364923808
+    https://velog.io/@taeha7b/python-parameter-argument
