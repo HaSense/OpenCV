@@ -43,6 +43,7 @@ pytesseract 테서렉트 아나콘다에서 설치법 : conda install -c conda-f
 3) 구글 알파벳 Deepmind
    https://deepmind.com
 4) 얼굴인식 서비스 기업
+
    ㄱ.센스타임 : https://www.sensetime.com/en
    
    ㄴ.메그비 : https://en.megvii.com/
