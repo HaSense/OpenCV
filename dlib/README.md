@@ -3,12 +3,14 @@
 DLib 메인 홈페이지 : http://dlib.net/
 
 파이썬에서 DLib와 함께 얼굴인식 오픈소스 모듈 중 face_recognition이 있습니다.
-
+<br>
 github에 있는 face_recognition을 이용하면 dlib를 보조하는 역할을 할 수 있습니다.
 관심있는 분들은 사용해 보세요. 
 
 주소는 다음과 같습니다.
 https://github.com/ageitgey/face_recognition
+<br>
+
 
 
 
