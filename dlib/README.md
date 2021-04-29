@@ -11,8 +11,8 @@ github에 있는 face_recognition을 이용하면 dlib를 보조하는 역할을
 https://github.com/ageitgey/face_recognition
 <p>
 
-openCV + deepLearning + face recognition을 중심으로 파이썬 비전처리 예제를 모아놓은 사이트를 소개합니다.
-양질의 샘플 코드를 얻을 수 있습니다.
+openCV + deepLearning + face recognition을 중심으로 파이썬 비전처리 예제를 모아놓은 사이트를 소개합니다.<br>
+양질의 샘플 코드를 얻을 수 있습니다.<br>
 https://www.pyimagesearch.com/
 <p><p>
 
