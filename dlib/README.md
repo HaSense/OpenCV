@@ -33,5 +33,16 @@ https://github.com/tesseract-ocr/tesseract
 pytesseract 테서렉트 아나콘다에서 설치법 : conda install -c conda-forge pytesseract
 
 
-
+[3. 사용화 서비스]
+1) 책 읽어주는 딥러닝 :
+   음성의 경우 상용화 수준입니다. 현재 영상을 통해 연구원이 어떤 방법으로 학습하고 업무에 적용해 나가는지를 중심으로 보면 좋겠습니다.
+   https://www.youtube.com/watch?v=klnfWhPGPRs
+   구글이 만든 타코트론이란 음성모델을 이용하여 결과를 도출하였습니다.
+2) 구글의 알파고와 같은 네이버의 범용인공지능 서비스
+   클로바 : https://clova.ai/ko
+3) 구글 알파벳 Deepmind
+   https://deepmind.com
+4) 얼굴인식 서비스 기업
+   ㄱ.센스타임 : https://www.sensetime.com/en
+   ㄴ.메그비 : https://en.megvii.com/
 
