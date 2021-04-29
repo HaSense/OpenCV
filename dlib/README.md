@@ -12,6 +12,8 @@ https://github.com/ageitgey/face_recognition
 
 
 
+
+
 [2. 번호판 인식]
 
 번호판 인식기 github : https://github.com/kairess/license_plate_recognition
